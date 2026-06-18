@@ -1,0 +1,8 @@
+.build/
+.swiftpm/
+Frameworks/
+build/
+*.xcframework
+*.xcframework.zip
+.DS_Store
+xcuserdata/
